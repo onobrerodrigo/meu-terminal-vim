@@ -28,8 +28,27 @@ e reiniciar o zsh.
 exec zsh
 ```
 **03. Configuração do tema ```Powerlevel10k```.**
-Execute o seguinte comando para começar a configurar o tema
+Execute o seguinte comando para começar a configurar o tema:
 ```bash
 pk10 configure
 ```
 
+**03. Nas próximas janelas, configure conforme a sua necessidade.**
+
+## Para o Vim
+
+**01. Copie o arquivo ```vimrc``` deste repositório para o diretório $HOME.**
+
+
+**02. Instale o pacote vim-plug.**
+
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
+**03. Abra o arquivo ```vimrc``` com o ```vim``` aprte ```ESC``` e em seguida execute o seguinte comando:**
+```bash
+:PlugInstall
+```
+
+Após isso, ele irá realizar a instalação dos Plugins que estão inseridos no arquivo ```vimrc.``
