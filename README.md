@@ -22,9 +22,14 @@ O tema [Powerlevel10k](https://github.com/romkatv/powerlevel10k), trás informa�
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-Após clonar o repositório acima para o local, basta copiar os arquivos que estão no diretório [files](/files) deste reposítório para o diretorio inicial $HOME
+Após clonar o repositório este repositório para local, basta copiar todos os arquivos para $HOME
 e reiniciar o zsh.
 ```bash
 exec zsh
+```
+**03. Configuração do tema ```Powerlevel10k```.**
+Execute o seguinte comando para começar a configurar o tema
+```bash
+pk10 configure
 ```
 
