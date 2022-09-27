@@ -46,7 +46,7 @@ pk10 configure
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-**03. Abra o arquivo ```vimrc``` com o ```vim``` aprte ```ESC``` e em seguida execute o seguinte comando:**
+**03. Abra o arquivo ```vimrc``` com o ```vim``` aperte ```ESC``` e em seguida execute o seguinte comando:**
 ```bash
 :PlugInstall
 ```
