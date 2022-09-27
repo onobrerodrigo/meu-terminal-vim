@@ -4,11 +4,11 @@ As configurações que utilizo no terminal e no VIM tornam o trabalho mais agrad
 
 ## Para o Terminal
 
-01. Instalação do pacote ZSH junto ao tema ```Powerlevel10k```.**
+**01. Instalação do pacote ZSH junto ao tema ```Powerlevel10k```.**
 ```bash
 sudo apt install zsh -y
 ```
-02. Instalação das Fontes necessárias para que o tema funcione corretamente
+**02. Instalação das Fontes necessárias para que o tema funcione corretamente.**
 
 - [MesloLGS NF Regular](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf)
 - [MesloLGS NF Bold](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf)
