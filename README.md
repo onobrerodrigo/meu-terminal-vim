@@ -22,7 +22,7 @@ O tema [Powerlevel10k](https://github.com/romkatv/powerlevel10k), trás informa�
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
-Após clonar o repositório este repositório para local, basta copiar todos os arquivos para $HOME
+Após clonar este repositório para local, basta copiar todos os arquivos para $HOME
 e reiniciar o zsh.
 ```bash
 exec zsh
